@@ -1,2 +1,2 @@
-# vba_scripts
-VBA scripts that we have used in our work
+# vba and python scripts
+VBA and python scripts that we have used in our work
